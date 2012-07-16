@@ -1,0 +1,11 @@
+cmake_minimum_required (VERSION 2.6)
+project (MINIG)
+
+add_subdirectory (lib)
+add_subdirectory (play)
+add_subdirectory (parts)
+add_subdirectory (sandbox)
+add_subdirectory (finder)
+add_subdirectory (apply)
+add_subdirectory (testing)
+add_subdirectory (submit)

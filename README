@@ -1,0 +1,13 @@
+(C++)Snakes vs Lambdas
+
+Team Members (alphabetically by lastname):
+
+	Oleg Ignatiev
+	Dmitry Panin
+	Rodion Permin
+	Alexey Tarasov
+	Mikhail Tikhomirov
+
+Our solution uses:
+	1. Annealing method (http://en.wikipedia.org/wiki/Simulated_annealing) with somehow almost randomly chosen parametres 
+	2. A* (http://en.wikipedia.org/wiki/A*_search_algorithm) and BFS algorithms as a pathfinding algorithms inside
