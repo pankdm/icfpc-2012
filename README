@@ -11,3 +11,5 @@ Team Members (alphabetically by lastname):
 Our solution uses:
 	1. Annealing method (http://en.wikipedia.org/wiki/Simulated_annealing) with somehow almost randomly chosen parametres 
 	2. A* (http://en.wikipedia.org/wiki/A*_search_algorithm) and BFS algorithms as a pathfinding algorithms inside
+	
+Report: https://github.com/pankdm/icfpc-2012/blob/master/doc/write-up.md
